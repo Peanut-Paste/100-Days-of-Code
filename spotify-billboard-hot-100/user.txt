@@ -1,0 +1,6 @@
+['display_name': 'Jin Nfr',
+'external_urls': {'spotify': 'https://open.spotify.com/user/11135818367'},
+'followers': {'href': None, 'total': 2},
+'href': 'https://api.spotify.com/v1/users/11135818367',
+'id': '11135818367',
+'images': [{'height': None, 'url': 'https://scontent.fmaa10-1.fna.fbcdn.net/v/t39.30808-1/271891501_7557413230951215_2511579891585687291_n.jpg?stp=c38.0.320.320a_dst-jpg_p320x320&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=yc15f2NtX3QAX9DfORO&_nc_ht=scontent.fmaa10-1.fna&edm=AP4hL3IEAAAA&oh=00_AfAPVrygkdgoE9FkIlfosVa4GZS65QGYto82Z3ugUuneZA&oe=643A3541', 'width': None}], 'type': 'user', 'uri': 'spotify:user:11135818367'
